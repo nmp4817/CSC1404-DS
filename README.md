@@ -22,4 +22,18 @@ DATA STRUCTURES
   <li>as2-5 : Delete then Join</li>
   <li>as2-6 : Addition, Multiplication</li>
   <li>as2-7 : Add two polynomials</li>
+  <li>as2-8 : Deletion in range</li>
+  <li>as2-9 : Doubly Circular</li>
+  <li>as2-10 : Doubly Circular Insertion, Deletion</li>
+</ul>
+
+#### QUEUE & STACK
+<hr>
+<ul>
+  <li>as3-1 : Stack Pop & Push</li>
+  <li>as3-2 : Queue Insert & Delete</li>
+  <li>as3-3 : Circular Queue</li>
+  <li>as3-4 : Priority Queue</li>
+  <li>as3-5 : Find Value of Reverse Polish Expression (Postfix)</li>
+  <li>as3-6 : Infix to Reverse Polish Expression (Postfix)</li>
 </ul>
