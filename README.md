@@ -46,3 +46,10 @@ DATA STRUCTURES
   <li>as4-3 : Heap Insertion and Deletion</li>
   <li>as4-4 : AVL(Adelson-Velskii and Landis) Insertion and Deletion</li>
 </ul>
+
+#### BFS,DFS ON BST
+<hr>
+<ul>
+  <li>as5-1 : Breadth-first Search</li>
+  <li>as5-2 : Depth-first Serach</li>
+</ul>
