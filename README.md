@@ -53,3 +53,11 @@ DATA STRUCTURES
   <li>as5-1 : Breadth-first Search</li>
   <li>as5-2 : Depth-first Serach</li>
 </ul>
+
+#### Sorting
+<hr>
+<ul>
+  <li>as6-1 : Quick Sort (use stack)</li>
+  <li>as6-2 : Radix Sort (use LinkedList)</li>
+  <li>as6-1 : Merge Sort (use array)</li>
+</ul>
