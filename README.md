@@ -37,3 +37,12 @@ DATA STRUCTURES
   <li>as3-5 : Find Value of Reverse Polish Expression (Postfix)</li>
   <li>as3-6 : Infix to Reverse Polish Expression (Postfix)</li>
 </ul>
+
+#### TREE
+<hr>
+<ul>
+  <li>as4-1 : Binary Search Tree Traversals</li>
+  <li>as4-2 : Binary Search Tree Insertion, Deletion</li>
+  <li>as4-3 : Heap Insertion and Deletion</li>
+  <li>as4-4 : AVL(Adelson-Velskii and Landis) Insertion and Deletion</li>
+</ul>
